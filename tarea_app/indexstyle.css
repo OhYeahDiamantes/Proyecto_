@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+h1 {
+    background-color:#c46161;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 7px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5;
+    font-family: 'Cursive', cursive;
+    font-size: 36px;
+  }
+.menu {
+    margin: 20px;
+}
+.menu a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: #a4e7a6;
+    color: black;
+    margin: 5px;
+}
+.menu a:hover {
+    background-color: #c46161;
+}
